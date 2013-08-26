@@ -1,0 +1,4 @@
+histogram-sample
+================
+
+Dice count
