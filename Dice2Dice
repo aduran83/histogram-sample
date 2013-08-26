@@ -6,7 +6,7 @@ public class ApplicationDice {
 
 	public static void main(String[] args) {
 		
-		System.out.print("Please enter how many times you want to roll two dice?");
+		System.out.print("Enter how many times you want to roll two dice?");
 	    Scanner scanner = new Scanner(System.in);
 	    int n = scanner.nextInt();
 	    int [] rolls = new int[n];
